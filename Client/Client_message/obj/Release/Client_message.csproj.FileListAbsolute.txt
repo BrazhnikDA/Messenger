@@ -1,0 +1,12 @@
+C:\Users\DIMA\source\repos\Client_message\Client_message\bin\Release\Client_message.exe.config
+C:\Users\DIMA\source\repos\Client_message\Client_message\bin\Release\Client_message.exe
+C:\Users\DIMA\source\repos\Client_message\Client_message\bin\Release\Client_message.pdb
+C:\Users\DIMA\source\repos\Client_message\Client_message\obj\Release\Client_message.Author.resources
+C:\Users\DIMA\source\repos\Client_message\Client_message\obj\Release\Client_message.Form1.resources
+C:\Users\DIMA\source\repos\Client_message\Client_message\obj\Release\Client_message.Properties.Resources.resources
+C:\Users\DIMA\source\repos\Client_message\Client_message\obj\Release\Client_message.Settings.resources
+C:\Users\DIMA\source\repos\Client_message\Client_message\obj\Release\Client_message.csproj.GenerateResource.cache
+C:\Users\DIMA\source\repos\Client_message\Client_message\obj\Release\Client_message.csproj.CoreCompileInputs.cache
+C:\Users\DIMA\source\repos\Client_message\Client_message\obj\Release\Client_message.exe
+C:\Users\DIMA\source\repos\Client_message\Client_message\obj\Release\Client_message.pdb
+C:\Users\DIMA\source\repos\Client_message\Client_message\obj\Release\Client_message.csprojAssemblyReference.cache
